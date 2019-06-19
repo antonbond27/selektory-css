@@ -1,0 +1,15 @@
+/* Zmieniam kolor czcionki dla paragrafów */
+p {
+color: rgb(79, 172, 43);
+}
+
+/*Zadaję kolor tła dla h1 i h3 */
+
+h1, h3 {
+    background-color: aqua;
+}
+
+/* Zmieniam kolor czcionki dla klasy "h3" */
+.h3 {
+    color: red;
+}
